@@ -3,4 +3,4 @@ Movie site made with react,figma....used TMDB's API .....implemented hooks,searc
 
 
 
-Wanna Checkout : https://abhijeet586.github.io/movie-site-react-practice/
+Wanna Checkout : http://localhost:5175/movie-site-react-practice/
